@@ -1,5 +1,5 @@
-                                                               Name: Akshaikhanna.D
-                                                               REG NO: 212223040010
+                                                           Name: Akshaikhanna.D
+                                                           REG NO: 212223040010
 # EX-2:Mean and variance of a discrete  distribution
 # Aim : 
 To find mean and variance of arrival of objects from the feeder using probability distribution
